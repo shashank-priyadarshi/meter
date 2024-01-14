@@ -1,0 +1,16 @@
+# TODO
+
+## Meeting Creation
+
+- Creating WebSocket Connection
+- Allowing multiple subscribers to a connection
+- Capturing and forwarding Video & Audio to all connection subscribers
+
+## Authentication and authorization
+
+- Sign-up and login
+- Creating instant meetings
+- Streaming meeting join request to meeting creator
+- Streaming meeting join request response to requester
+
+## Stream Compression
